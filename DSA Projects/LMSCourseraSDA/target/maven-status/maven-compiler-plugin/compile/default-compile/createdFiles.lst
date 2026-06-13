@@ -1,0 +1,9 @@
+com\mycompany\lmscourserasda\CourseListView.class
+com\mycompany\lmscourserasda\Course.class
+com\mycompany\lmscourserasda\LMSCourseraSDA.class
+com\mycompany\lmscourserasda\LMSModel.class
+com\mycompany\lmscourserasda\ContentView.class
+com\mycompany\lmscourserasda\LMSController.class
+com\mycompany\lmscourserasda\LoginView.class
+com\mycompany\lmscourserasda\RegisterView.class
+com\mycompany\lmscourserasda\User.class

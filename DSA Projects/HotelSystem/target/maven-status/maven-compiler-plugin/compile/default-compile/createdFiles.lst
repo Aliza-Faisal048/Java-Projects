@@ -1,0 +1,13 @@
+com\mycompany\hotelsystem\TransportGUI.class
+com\mycompany\hotelsystem\Gym.class
+com\mycompany\hotelsystem\StaffGUI.class
+com\mycompany\hotelsystem\Staff.class
+com\mycompany\hotelsystem\GuestGUI.class
+com\mycompany\hotelsystem\RoomGUI.class
+com\mycompany\hotelsystem\Rooms.class
+com\mycompany\hotelsystem\HotelSystem.class
+com\mycompany\hotelsystem\MainMenu.class
+com\mycompany\hotelsystem\Transport.class
+com\mycompany\hotelsystem\Guest.class
+com\mycompany\hotelsystem\person.class
+com\mycompany\hotelsystem\GymGUI.class
